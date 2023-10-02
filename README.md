@@ -1,4 +1,4 @@
-# Hello from the University of Seville! 👋
+# Hello from Seville! 👋
 
 ## About Me
 - 🎓 I'm a Computer Science Engineering student at the University of Seville, deeply immersed in the realms of technology.
