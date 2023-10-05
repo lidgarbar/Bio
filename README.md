@@ -14,4 +14,4 @@
 - 🌐 Eager to satiate my curiosity, I'm open to exploring diverse projects beyond my academic focus.
 - 🌱 Join me on this exciting journey of continuous learning and project exploration! 
 
-[![An image of @lidgarbar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/lidgarbar)](https://holopin.io/@lidgarbar)
+[[![An image of @lidgarbar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/lidgarbar)](https://holopin.io/@lidgarbar)]
